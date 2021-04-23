@@ -1,6 +1,6 @@
 # meditateApp
 
-It,s my first attempt to learn how git works. 
+It's my first attempt to learn how git works. 
 
 tools used : VScode for coding, github desktop for windows.
 technolgies : vanila js, html5 and css3
